@@ -1,0 +1,6 @@
+    .default-input {
+        border-color: rgb(161, 239, 137);
+    }
+    .error-input {
+        border-color: red;
+    }
